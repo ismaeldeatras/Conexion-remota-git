@@ -1,0 +1,26 @@
+body
+{
+    font-family: 'Roboto';
+    
+}
+
+h1 
+{
+    text-align: center;
+}
+.centro 
+{
+    font-style: italic;
+    text-align: center;
+  
+    
+}
+.centro li
+{
+    list-style: none;
+    display: inline;
+    font-size: 20px;
+    padding: 20px;
+    text-decoration: underline;
+    text-align: center;
+}
